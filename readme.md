@@ -23,7 +23,8 @@ O que foi que eu aprendi aqui?
 
 ## Aula 5
 
-O que foi que eu aprendi aqui?
+Utilizar a ferramenta https://learngitbranching.js.org/
+para praticar os comandos mas comunes do Git
 
 ## Aula 6
 
